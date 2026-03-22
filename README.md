@@ -3,11 +3,11 @@
 **Disciplined AI development through enforced methodology.**
 
 FORGE Orchestrator is a governance layer for AI coding agents that enforces the FORGE methodology:
-- **F**rame — Define scope, requirements, and constraints before writing code
-- **O**rchestrate — Break work into branches, PRs, and reviewable units
-- **R**efine — Iterate on designs with human feedback before implementation
-- **G**overn — Quality gates, tests, and approval checkpoints
-- **E**xecute — Controlled code generation with parallel agent governance
+- **F**rame — Product vision and requirements (PRD, not PRs)
+- **O**rchestrate — Technical planning that weaves into existing code
+- **R**efine — Validate alignment: "Does O's plan produce F's product?"
+- **G**overn — Infrastructure, PR lifecycle, documentation, transparency
+- **E**xecute — Tests first, then super-documented code
 
 ## The Problem
 
